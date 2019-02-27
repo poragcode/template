@@ -1,0 +1,97 @@
+/*!
+ * Start Bootstrap - Landing Page v5.0.1 (https://startbootstrap.com/template-overviews/landing-page)
+ * Copyright 2013-2018 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-landing-page/blob/master/LICENSE)
+ */body{font-family:Lato,'Helvetica Neue',Helvetica,Arial,sans-serif}
+hr {
+	margin-top: 3px;
+    border: 0;
+    height: 0; /* Firefox... */
+    box-shadow: 0 0 10px 1px blue;  
+}
+
+
+
+main-menu ul#nav {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    
+}
+
+.main-menu ul#nav li {
+    display: inline-block;
+	
+}
+
+.main-menu ul#nav li a {
+
+    color: #03307c;
+    font-size: 16px;
+    text-transform: uppercase;
+    font-weight: 500;
+    padding: .3px .3px;
+    display: inline-block;
+    text-decoration-style: solid;
+    text-align: center;
+    margin-right: 6px;
+    margin-left: 150px;
+	margin-top: .5px;
+	margin-bottom: .5px;
+	position: relative;
+	
+}
+
+
+h1,h2,h3,h5,h6{font-family:Lato,'Helvetica Neue',Helvetica,Arial,sans-serif;font-weight:650}
+
+header.masthead{position:relative;background-color:#343a40;background:url(../img/image.jpg) no-repeat center center;background-size:cover;padding-top:2rem;padding-bottom:4rem}
+
+header.masthead .overlay{position:absolute;background-color:#212529;height:100%;width:100%;top:0;left:0;opacity:.1}
+
+@media (min-width:768px){header.masthead{padding-top:4rem;padding-bottom:7rem}
+    header.masthead h1{font-size:3rem}}
+    
+    
+
+.showcase .showcase-text{padding:3rem}.showcase .showcase-img{min-height:20rem;max-width:92rem;background-size:cover;background-repeat: no-repeat; background-position: right center;}@media (min-width:768px){.showcase .showcase-text{padding:4rem}}
+
+.features-icons{padding-top:1rem;padding-bottom:2rem}.features-icons .features-icons-item{max-width:20rem}.features-icons .features-icons-item .features-icons-icon{height:6rem}
+
+.features-icons .features-icons-item .features-icons-icon i{font-size:4.5rem}
+
+.features-icons .features-icons-item:hover .features-icons-icon i{font-size:5rem}
+
+.testimonials{padding-top:3rem;padding-bottom:2rem}.testimonials 
+
+.testimonial-item{max-width:38rem}
+
+.testimonials .testimonial-item img{max-width:232rem;-webkit-box-shadow:0 5px 5px 0 #adb5bd;box-shadow:0 5px 5px 0 #adb5bd}
+
+.call-to-action{position:relative;background-color:#343a40;background:url("../img/dims1.jpg") no-repeat center center;background-size:cover;padding-top:17rem;padding-bottom:15rem}
+
+.call-to-action pic{position:;background-color:#343a40;background:url("../img/dims1.jpg") no-repeat center center;background-size:cover;padding-top:17rem;padding-bottom:15rem}
+
+
+
+
+.social-icon ul li {
+    display: inline;
+    margin-right: 73px;
+    margin-left: 30px;
+padding: 3.5;
+}
+.terms ul li {
+    display: inline;
+    margin-right: 30px;
+    margin-left: 5px;
+padding: 1.5;
+}
+.footer-b-area{
+    
+    padding-top:.1rem;
+    padding-bottom:.01rem;
+    text-align: center;
+	margin-bottom: 49px;
+	
+}
